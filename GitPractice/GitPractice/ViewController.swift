@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         print("Jaeyoung branch")
         
-        var view = UIView.init(frame: CGRect(x: 100, y: 100, width: 100, height: 100))
+        let view = UIView.init(frame: CGRect(x: 100, y: 100, width: 100, height: 100))
         view.backgroundColor = .orange
         self.view.addSubview(view)
     }
