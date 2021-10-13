@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = .yellow
         
-        print("Master branch222222")
+        print("ㅛjyjyjy")
     }
 
 
